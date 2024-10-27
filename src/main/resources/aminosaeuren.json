@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Alanin",
+    "abkuerzung": "Ala",
+    "formel": "C3H7NO2",
+    "molmasse": 89.09,
+    "eigenschaften": "hydrophob, unpolar",
+    "codetriplett": "GCU, GCC, GCA, GCG"
+  },
+  {
+    "name": "Arginin",
+    "abkuerzung": "Arg",
+    "formel": "C6H14N4O2",
+    "molmasse": 174.2,
+    "eigenschaften": "hydrophil, polar",
+    "codetriplett": "CGU, CGC, CGA, CGG, AGA, AGG"
+  },
+  {
+    "name": "Asparagin",
+    "abkuerzung": "Asn",
+    "formel": "C4H8N2O3",
+    "molmasse": 132.12,
+    "eigenschaften": "hydrophil, polar",
+    "codetriplett": "AAU, AAC"
+  },
+  {
+    "name": "Asparaginsäure",
+    "abkuerzung": "Asp",
+    "formel": "C4H7NO4",
+    "molmasse": 133.1,
+    "eigenschaften": "hydrophil, polar",
+    "codetriplett": "GAU, GAC"
+  },
+  {
+    "name": "Cystein",
+    "abkuerzung": "Cys",
+    "formel": "C3H7NO2S",
+    "molmasse": 121.16,
+    "eigenschaften": "hydrophil, polar",
+    "codetriplett": "UGU, UGC"
+  },
+  {
+    "name": "Glutamin",
+    "abkuerzung": "Gln",
+    "formel": "C5H10N2O3",
+    "molmasse": 146.15,
+    "eigenschaften": "hydrophil, polar",
+    "codetriplett": "CAA, CAG"
+  },
+  {
+    "name": "Glutaminsäure",
+    "abkuerzung": "Glu",
+    "formel": "C5H9NO4",
+    "molmasse": 147.13,
+    "eigenschaften": "hydrophil, polar",
+    "codetriplett": "GAA, GAG"
+  },
+  {
+    "name": "Glycin",
+    "abkuerzung": "Gly",
+    "formel": "C2H5NO2",
+    "molmasse": 75.07,
+    "eigenschaften": "hydrophob, unpolar",
+    "codetriplett": "GGU, GGC, GGA, GGG"
+  },
+  {
+    "name": "Histidin",
+    "abkuerzung": "His",
+    "formel": "C6H9N3O2",
+    "molmasse": 155.16,
+    "eigenschaften": "hydrophil, polar",
+    "codetriplett": "CAU, CAC"
+  },
+  {
+    "name": "Isoleucin",
+    "abkuerzung": "Ile",
+    "formel": "C6H13NO2",
+    "molmasse": 131.17,
+    "eigenschaften": "hydrophob, unpolar",
+    "codetriplett": "AUU, AUC, AUA"
+  },
+  {
+    "name": "Leucin",
+    "abkuerzung": "Leu",
+    "formel": "C6H13NO2",
+    "molmasse": 131.17,
+    "eigenschaften": "hydrophob, unpolar",
+    "codetriplett": "CUU, CUC, CUA, CUG, UUA, UUG"
+  },
+  {
+    "name": "Lysin",
+    "abkuerzung": "Lys",
+    "formel": "C6H14N2O2",
+    "molmasse": 146.19,
+    "eigenschaften": "hydrophil, polar",
+    "codetriplett": "AAA, AAG"
+  },
+  {
+    "name": "Methionin",
+    "abkuerzung": "Met",
+    "formel": "C5H11NO2S",
+    "molmasse": 149.21,
+    "eigenschaften": "hydrophob, unpolar",
+    "codetriplett": "AUG"
+  },
+  {
+    "name": "Phenylalanin",
+    "abkuerzung": "Phe",
+    "formel": "C9H11NO2",
+    "molmasse": 165.19,
+    "eigenschaften": "hydrophob, unpolar",
+    "codetriplett": "UUU, UUC"
+  },
+  {
+    "name": "Prolin",
+    "abkuerzung": "Pro",
+    "formel": "C5H9NO2",
+    "molmasse": 115.13,
+    "eigenschaften": "hydrophob, unpolar",
+    "codetriplett": "CCU, CCC, CCA, CCG"
+  },
+  {
+    "name": "Serin",
+    "abkuerzung": "Ser",
+    "formel": "C3H7NO3",
+    "molmasse": 105.09,
+    "eigenschaften": "hydrophil, polar",
+    "codetriplett": "UCU, UCC, UCA, UCG, AGU, AGC"
+  },
+  {
+    "name": "Threonin",
+    "abkuerzung": "Thr",
+    "formel": "C4H9NO3",
+    "molmasse": 119.12,
+    "eigenschaften": "hydrophil, polar",
+    "codetriplett": "ACU, ACC, ACA, ACG"
+  },
+  {
+    "name": "Tryptophan",
+    "abkuerzung": "Trp",
+    "formel": "C11H12N2O2",
+    "molmasse": 204.23,
+    "eigenschaften": "hydrophob, unpolar",
+    "codetriplett": "UGG"
+  },
+  {
+    "name": "Tyrosin",
+    "abkuerzung": "Tyr",
+    "formel": "C9H11NO3",
+    "molmasse": 181.19,
+    "eigenschaften": "hydrophil, polar",
+    "codetriplett": "UAU, UAC"
+  },
+  {
+    "name": "Valin",
+    "abkuerzung": "Val",
+    "formel": "C5H11NO2",
+    "molmasse": 117.15,
+    "eigenschaften": "hydrophob, unpolar",
+    "codetriplett": "GUU, GUC, GUA, GUG"
+  }
+]

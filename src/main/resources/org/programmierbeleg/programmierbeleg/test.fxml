@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox xmlns:fx="http://javafx.com/fxml" alignment="CENTER">
+    <Region VBox.vgrow="ALWAYS">
+        <maxHeight><Double fx:constant="MAX_VALUE" /></maxHeight>
+    </Region>
+    <TextArea text="Label 1"/>
+    <Region VBox.vgrow="ALWAYS">
+        <maxHeight><Double fx:constant="MAX_VALUE" /></maxHeight>
+    </Region>
+    <TextArea text="Label 2"/>
+    <Region VBox.vgrow="ALWAYS">
+        <maxHeight><Double fx:constant="MAX_VALUE" /></maxHeight>
+    </Region>
+    <TextArea text="Label 3"/>
+    <Region VBox.vgrow="ALWAYS">
+        <maxHeight><Double fx:constant="MAX_VALUE" /></maxHeight>
+    </Region>
+</VBox>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<VBox fx:id="programmBox" alignment="CENTER" prefHeight="347.0" prefWidth="241.0" spacing="20.0"
+      xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="org.programmierbeleg.programmierbeleg.HelloController">
+    <padding>
+        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0"/>
+    </padding>
+    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Aminosäurentrainer" underline="true">
+        <font>
+            <Font name="Broadway" size="30.0"/>
+        </font>
+    </Text>
+    <Button layoutX="102.0" layoutY="183.0" onAction="#onSuchmaschineClick" text="Suchmaschine" VBox.vgrow="ALWAYS">
+        <font>
+            <Font name="Broadway" size="20.0"/>
+        </font>
+    </Button>
+    <Button layoutX="88.0" layoutY="125.0" onAction="#onBaukastenClick" text="Baukasten">
+        <font>
+            <Font name="Broadway" size="20.0"/>
+        </font>
+    </Button>
+    <Button layoutX="88.0" layoutY="215.0" onAction="#onTutorialClick" text="Tutorial">
+        <font>
+            <Font name="Broadway" size="20.0"/>
+        </font>
+    </Button>
+    <Button layoutX="88.0" layoutY="236.0" onAction="#onCreditsClick" text="Credits">
+        <font>
+            <Font name="Broadway" size="20.0"/>
+        </font>
+    </Button>
+    <Button layoutX="88.0" layoutY="257.0" onAction="#onBeendenClick" text="Beenden">
+        <font>
+            <Font name="Broadway" size="20.0"/>
+        </font>
+    </Button>
+</VBox>

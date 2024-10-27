@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<?import javafx.scene.text.Text?>
+<?import javafx.scene.text.Font?>
+<VBox xmlns:fx="http://javafx.com/fxml" fx:controller="org.programmierbeleg.programmierbeleg.HelloController"
+      alignment="CENTER" spacing="20">
+    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Suchmaschine" underline="true">
+        <font>
+            <Font name="Broadway" size="20.0"/>
+        </font>
+    </Text>
+
+    <TextField fx:id="suchbegriff" promptText="Suchbegriff eingeben" VBox.vgrow="ALWAYS"/>
+
+    <Button fx:id="suchenButton" onAction="#onSuchenButtonClick" text="Suchen" VBox.vgrow="ALWAYS"/>
+    <TextArea fx:id="ergebnis" VBox.vgrow="ALWAYS" editable="false"/>
+    <Button fx:id="zurueckButton" onAction="#onZurueckButtonClick" text="Zurück" VBox.vgrow="ALWAYS"/>
+</VBox>
